@@ -1,5 +1,5 @@
 /*
-]=====> KEVIN APTS <=====[ ]=====> IG KEVIN_APTA-KUN <=====[ ]=====> 083141621181 <=====[
+]=====> SUNDA BOT <=====[ ]=====> IG taufikrmdn <=====[ ]=====> 089657856407 <=====[
 */
 // ANAK ANJING PASTI YANG ATAS DI UBAH
 // NGOTAK KONSOL
@@ -47,9 +47,9 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:KEVIN APTA\n' // GANTI NAMA LU
+            + 'FN:Taufik\n' // GANTI NAMA LU
             + 'ORG:KEV;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6283141621181:+62 831-4162-1181\n' // GANTI NOMOR LU
+            + 'TEL;type=CELL;type=VOICE;waid=6289657856407:+62 896-5785-6407\n' // GANTI NOMOR LU
             + 'END:VCARD'
 // UDAH SEGITU KONSOL KEBAWAH BIARIN AJA
 const ngonsol = JSON.parse(fs.readFileSync('./settings/Kevin.json'))
