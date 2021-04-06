@@ -16,12 +16,12 @@
   "author": "KEVIN",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevzka/kevbot.git"
+    "url": "git+https://github.com/schatzyyy/memekk.git"
   },
   "bugs": {
-    "url": "https://github.com/kevzka/kevbot/issues"
+    "url": "https://github.com/schatzyyy/memekk/issues"
   },
-  "homepage": "https://github.com/kevzka/kevbot/readme",
+  "homepage": "https://github.com/schatzyyy/memekk/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
