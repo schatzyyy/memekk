@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kevin
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm KONTOL
 <p align="center">
 <img src="https://github.com/kevzka/Kevzka/blob/main/halo.jpg" width="230" height="230"/>
 </p>
@@ -71,8 +71,8 @@ https://youtu.be/hhvQwPG2EF4
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > pkg install git
-> git clone https://github.com/kevzka/kevbot
-> cd kevbot
+> git clone https://github.com/schatzyyy/memekk
+> cd memekk
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
